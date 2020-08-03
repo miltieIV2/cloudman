@@ -58,7 +58,8 @@ If you're a **macOS Homebrew** or a **Linuxbrew** user, then you can install
 cloudman from homebrew tap:
 
 ```
-$ brew install dutchcoders/cloudman
+$ brew tap dutchcoders/cloudman
+$ brew install cloudman
 ```
 
 ## Building
